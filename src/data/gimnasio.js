@@ -51,7 +51,7 @@ export const entrenadores = [
   {
     id: 'carlos',
     ejemplo: true,
-    nombre: 'Carlos Mendoza',
+    nombre: 'Carlos Rodríguez',
     foto: '',
     especialidad: 'Hipertrofia y masa muscular',
     descripcion: 'Rutinas por grupos musculares para ganar tamaño con buena técnica.',
