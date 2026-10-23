@@ -1,0 +1,18 @@
+FOTOS DE LOS ENTRENADORES
+=========================
+
+Guarda aquí la foto de cada entrenador con el MISMO nombre que su "id"
+en src/data/gimnasio.js:
+
+  carlos.webp   andrea.webp   luis.webp   jose.webp   mariana.png
+
+Mejor en .png o .webp SIN FONDO (recortadas). También se aceptan .jpg. La página las carga sola,
+no hay que tocar ningún componente.
+
+Para que se vean parejas:
+- Foto vertical 4:5 (por ejemplo 640 x 800 px), de la cintura para arriba.
+- La cara en el centro, misma distancia en todas.
+- Sin fondo (transparente): detrás se pone solo el fondo de fuego. Buena luz de frente.
+- Solo fotos de los entrenadores reales y con su permiso.
+
+Si falta la foto, la tarjeta muestra una silueta.
